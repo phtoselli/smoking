@@ -1,4 +1,4 @@
-## Hi 👋, welcome to smoking repository
+## Hi 👋, welcome to smoking repository!
 
 🚬 This is a simple python program that checks how much you've spent on cigarettes.
 
